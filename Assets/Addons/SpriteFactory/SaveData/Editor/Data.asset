@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1898135643, guid: d201e0e8ca2e39047a02d5a600f092c3, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  settings: {fileID: 11400000, guid: 4549b85139589814f851ffb01c41f2e6, type: 2}
+  spriteSaveData: []
+  _spriteIdCounter: 0
+  spriteGroupSaveData: []
+  _groupIdCounter: 0
+  ungroupedSpriteIds: 
+  programVersion: 1.120
+  dataVersion: 8
+  isTrial: 0
